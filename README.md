@@ -17,7 +17,7 @@ The TMDB Movies Dataset is a treasure trove of cinematic data spanning various g
 
 This project portfolio is more than just a showcase of technical prowess; it is a testament to my passion for data exploration and storytelling. Through interactive visualizations and compelling narratives, I aim to inspire and inform, sparking conversations and driving innovation in the realm of data analytics.
 
-🔗 Dive into the Dashboard: 
+🔗 Dive into the Dataset: https://onyxdata.co.uk/data-dna-dataset-challenge/
 
 Join me on this exhilarating journey of exploration and discovery as we navigate the intricate web of cinematic insights together! 💡💻
 
